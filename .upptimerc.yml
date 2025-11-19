@@ -20,25 +20,7 @@ status-website:
       href: /
     - title: Nemboks
       href: https://www.nemboks.dk
-  theme:
-    light:
-      primary: "#ef4444"
-      secondary: "#f3f4f6"
-  css: |
-    header, .navbar {
-      background-color: #ef4444 !important;
-      color: white !important;
-    }
-    body {
-      background-color: #f3f4f6 !important;
-    }
-    .button, button, .btn {
-      background-color: #ef4444 !important;
-      color: white !important;
-    }
-    a {
-      color: #ef4444;
-    }
+  themeUrl: https://nemboks.github.io/status.nemboks.dk/nemboks.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
