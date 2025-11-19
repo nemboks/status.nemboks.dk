@@ -17,6 +17,25 @@ status-website:
   navbar:
     - title: Status
       href: /
+  theme:
+    light:
+      primary: "#ef4444"
+      secondary: "#f3f4f6"
+  css: |
+    header, .navbar {
+      background-color: #ef4444 !important;
+      color: white !important;
+    }
+    body {
+      background-color: #f3f4f6 !important;
+    }
+    .button, button, .btn {
+      background-color: #ef4444 !important;
+      color: white !important;
+    }
+    a {
+      color: #ef4444;
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
