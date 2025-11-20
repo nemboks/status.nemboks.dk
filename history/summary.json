@@ -4,17 +4,17 @@
     "url": "https://www.nemboks.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.nemboks.dk.ico",
     "slug": "nemboks-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 758,
-    "timeWeek": 876,
-    "timeMonth": 876,
-    "timeYear": 876,
+    "time": 761,
+    "timeDay": 382,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   }
 ]
