@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nemboks.dk.ico",
     "slug": "nemboks-dk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 382,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
-    "dailyMinutesDown": {}
+    "uptime": "80.10%",
+    "uptimeDay": "50.11%",
+    "uptimeWeek": "80.10%",
+    "uptimeMonth": "80.10%",
+    "uptimeYear": "80.10%",
+    "time": 676,
+    "timeDay": 76,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
+    "dailyMinutesDown": {
+      "2025-11-21": 50,
+      "2025-11-20": 669
+    }
   }
 ]
